@@ -1,0 +1,945 @@
+Crozier.02_E104
+  
+10.216.0.11
+AIR-CAP3502I-A-K9
+58:8d:09:e2:48:00
+558 d, 02 h 44 m 37 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+0
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+Crozier.34_E106
+  
+10.216.0.22
+AIR-CAP3702I-A-K9
+f0:7f:06:2f:ce:1c
+553 d, 17 h 55 m 09 s
+Enabled
+REG
+Power injector / Normal mode
+1000 Mbps
+NA
+NA
+NA
+NA
+3
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+Disable
+ 
+Crozier.39_E205
+  
+10.216.0.14
+AIR-CAP3702I-A-K9
+f0:7f:06:26:67:0c
+553 d, 16 h 29 m 36 s
+Enabled
+REG
+Power injector / Normal mode
+1000 Mbps
+NA
+NA
+NA
+NA
+0
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+Disable
+ 
+Crozier.20_G233_Teachers.W
+  
+10.216.0.29
+AIR-CAP3502I-A-K9
+58:8d:09:e2:45:2c
+898 d, 19 h 51 m 48 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+0
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+Crozier.33_E105
+  
+10.216.0.24
+AIR-CAP3702I-A-K9
+f0:7f:06:2f:ce:6c
+553 d, 10 h 37 m 33 s
+Enabled
+REG
+Power injector / Normal mode
+1000 Mbps
+NA
+NA
+NA
+NA
+2
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+Disable
+ 
+Crozier.10_L101_Library
+  
+10.216.0.38
+AIR-CAP3502I-A-K9
+58:8d:09:97:15:83
+242 d, 13 h 01 m 29 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+1
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+Crozier.38_E203
+  
+10.216.0.31
+AIR-CAP3702I-A-K9
+f0:7f:06:26:68:48
+553 d, 11 h 03 m 45 s
+Enabled
+REG
+Power injector / Normal mode
+1000 Mbps
+NA
+NA
+NA
+NA
+1
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+Disable
+ 
+Crozier.18_E207
+  
+10.216.0.16
+AIR-CAP3502I-A-K9
+58:8d:09:e2:46:a0
+558 d, 00 h 09 m 35 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+0
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+Crozier.42_E209
+  
+10.216.0.43
+AIR-CAP3702I-A-K9
+f0:7f:06:2f:ce:7c
+240 d, 17 h 07 m 09 s
+Enabled
+REG
+Power injector / Normal mode
+1000 Mbps
+NA
+NA
+NA
+NA
+2
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+Disable
+ 
+Crozier.03_E107
+  
+10.216.0.45
+AIR-CAP3502I-A-K9
+58:8d:09:e2:48:16
+557 d, 20 h 58 m 08 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+0
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+Crozier.09_G121_Boys.Coach
+  
+10.216.0.5
+AIR-CAP3502I-A-K9
+58:8d:09:e2:47:0b
+504 d, 23 h 19 m 38 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+2
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+Crozier.31_E102
+  
+10.216.0.42
+AIR-CAP3702I-A-K9
+f0:7f:06:2f:cc:e8
+553 d, 21 h 33 m 41 s
+Enabled
+REG
+Power injector / Normal mode
+1000 Mbps
+NA
+NA
+NA
+NA
+0
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+Disable
+ 
+Crozier.17_E204
+  
+10.216.0.17
+AIR-CAP3502I-A-K9
+58:8d:09:e2:45:22
+242 d, 13 h 47 m 36 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+0
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+Crozier.24_N215_Teachers.W
+  
+10.216.0.33
+AIR-CAP3502I-A-K9
+58:8d:09:97:19:0e
+242 d, 14 h 30 m 15 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+0
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+Crozier.05_F108_Control.Ro
+  
+10.216.0.8
+AIR-CAP3502I-A-K9
+58:8d:09:97:18:d7
+242 d, 13 h 06 m 35 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+0
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+Crozier.41_E208
+  
+10.216.0.40
+AIR-CAP3702I-A-K9
+f0:7f:06:2f:cc:c8
+554 d, 01 h 56 m 14 s
+Enabled
+REG
+Power injector / Normal mode
+1000 Mbps
+NA
+NA
+NA
+NA
+2
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+Disable
+ 
+Crozier.21_L205_Study
+  
+10.216.0.4
+AIR-CAP3502I-A-K9
+58:8d:09:e2:47:fb
+242 d, 12 h 13 m 18 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+1
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+Crozier.19_G200_Activity
+  
+10.216.0.21
+AIR-CAP3502I-A-K9
+58:8d:09:e2:46:bc
+242 d, 13 h 51 m 47 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+0
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+Crozier.27_N107
+  
+10.216.0.18
+AIR-CAP3702I-A-K9
+f0:7f:06:26:67:4c
+240 d, 15 h 01 m 55 s
+Enabled
+REG
+Power injector / Normal mode
+1000 Mbps
+NA
+NA
+NA
+NA
+0
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+Disable
+ 
+Crozier.14_W104
+  
+10.216.0.41
+AIR-CAP3502I-A-K9
+58:8d:09:95:50:d8
+242 d, 14 h 39 m 19 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+1
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+Crozier.04_F102_Gallery
+  
+10.216.0.2
+AIR-CAP3502I-A-K9
+58:8d:09:95:58:ca
+242 d, 11 h 04 m 05 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+0
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+Crozier.29_N207
+  
+10.216.0.39
+AIR-CAP3702I-A-K9
+f0:7f:06:2f:cd:74
+240 d, 13 h 30 m 43 s
+Enabled
+REG
+Power injector / Normal mode
+1000 Mbps
+NA
+NA
+NA
+NA
+0
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+Disable
+ 
+Crozier.22_N201_Teachers.W
+  
+10.216.0.28
+AIR-CAP3502I-A-K9
+58:8d:09:e2:46:c1
+242 d, 15 h 06 m 07 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+1
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+Crozier.12_N108_Prep
+  
+10.216.0.30
+AIR-CAP3502I-A-K9
+58:8d:09:e2:45:fd
+242 d, 12 h 42 m 31 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+0
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+Crozier.26_W207
+  
+10.216.0.26
+AIR-CAP3502I-A-K9
+58:8d:09:e2:47:f7
+242 d, 20 h 40 m 24 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+2
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+Crozier.30_N216
+  
+10.216.0.20
+AIR-CAP3702I-A-K9
+f0:7f:06:2f:cd:cc
+240 d, 11 h 37 m 07 s
+Enabled
+REG
+Power injector / Normal mode
+1000 Mbps
+NA
+NA
+NA
+NA
+0
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+Disable
+ 
+Crozier.11_N101_Teachers.W
+  
+10.216.0.7
+AIR-CAP3502I-A-K9
+58:8d:09:96:ff:a6
+242 d, 11 h 36 m 03 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+1
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+Crozier.15_W107
+  
+10.216.0.10
+AIR-CAP3502I-A-K9
+58:8d:09:e2:46:cd
+242 d, 16 h 29 m 34 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+0
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+Crozier.25_W204
+  
+10.216.0.9
+AIR-CAP3502I-A-K9
+58:8d:09:97:19:04
+242 d, 21 h 23 m 14 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+0
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+Crozier.23_N208_Prep
+  
+10.216.0.3
+AIR-CAP3502I-A-K9
+58:8d:09:37:c1:1f
+242 d, 10 h 59 m 21 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+0
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+Crozier.06_F112_Music.Room
+  
+10.216.0.35
+AIR-CAP3502I-A-K9
+58:8d:09:97:18:de
+242 d, 12 h 52 m 03 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+0
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+Crozier.13_N115_Teachers.W
+  
+10.216.0.44
+AIR-CAP3502I-A-K9
+58:8d:09:97:18:d8
+243 d, 03 h 42 m 55 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+0
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+Crozier.07_F127_Dressing.R
+  
+10.216.0.15
+AIR-CAP3502I-A-K9
+58:8d:09:97:15:88
+242 d, 09 h 53 m 09 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+0
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+Crozier.16_A208_Teachers.L
+  
+10.216.0.37
+AIR-CAP3502I-A-K9
+58:8d:09:e2:46:7d
+0 d, 18 h 46 m 55 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+1
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+Crozier.01_A119_Staff.Mail
+  
+10.216.0.34
+AIR-CAP3502I-A-K9
+58:8d:09:95:58:dd
+0 d, 18 h 46 m 13 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+1
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 

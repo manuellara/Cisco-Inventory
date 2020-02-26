@@ -1,0 +1,1539 @@
+Inglewood.AP19_C-4
+  
+10.219.0.40
+AIR-CAP3502I-A-K9
+c4:71:fe:6d:ba:50
+131 d, 23 h 24 m 30 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+1
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+Inglewood.AP42_J-2
+  
+10.219.0.4
+AIR-CAP3502I-A-K9
+c4:71:fe:8f:ed:f3
+131 d, 22 h 46 m 47 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+0
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+Inglewood.AP12_A-10
+  
+10.219.0.12
+AIR-CAP3502I-A-K9
+1c:df:0f:94:b5:e1
+108 d, 09 h 57 m 57 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+1
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+Inglewood.AP36_FA-4
+  
+10.219.0.7
+AIR-CAP3502I-A-K9
+1c:df:0f:94:98:dd
+131 d, 22 h 22 m 15 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+0
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+Inglewood.AP08_A-Cafeteria
+  
+10.219.0.3
+AIR-CAP3502I-A-K9
+1c:df:0f:94:b6:16
+108 d, 07 h 31 m 24 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+0
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+Inglewood.AP04_A-4
+  
+10.219.0.24
+AIR-CAP3502I-A-K9
+1c:df:0f:94:a6:09
+108 d, 08 h 46 m 26 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+0
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+Inglewood.AP07_A-StudentService
+  
+10.219.0.10
+AIR-CAP3502I-A-K9
+1c:df:0f:94:b5:7c
+108 d, 09 h 59 m 47 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+3
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+Inglewood.AP14_A-13
+  
+10.219.0.8
+AIR-CAP3502I-A-K9
+1c:df:0f:94:b2:f8
+108 d, 12 h 52 m 25 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+2
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+Inglewood.AP10_A-CollegeCenter
+  
+10.219.0.20
+AIR-CAP3502I-A-K9
+c4:71:fe:6d:bd:80
+108 d, 07 h 30 m 31 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+2
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+Inglewood.AP03_A-2
+  
+10.219.0.19
+AIR-CAP3502I-A-K9
+c4:71:fe:6d:be:2e
+108 d, 07 h 50 m 05 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+0
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+Inglewood.AP41_I-7
+  
+10.219.0.32
+AIR-CAP3502I-A-K9
+1c:df:0f:94:98:96
+131 d, 22 h 35 m 58 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+0
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+Inglewood.AP18_C-2
+  
+10.219.0.28
+AIR-CAP3502I-A-K9
+1c:df:0f:94:b2:1e
+131 d, 22 h 33 m 31 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+0
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+Inglewood.AP32_Auditorium
+  
+10.219.0.22
+AIR-CAP3502I-A-K9
+c4:71:fe:6d:bd:69
+131 d, 22 h 13 m 16 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+0
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+Inglewood.AP55_Gym-BoysCoach
+  
+10.219.0.2
+AIR-CAP3502I-A-K9
+c4:71:fe:6d:bb:f2
+131 d, 23 h 26 m 59 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+2
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+Inglewood.AP60_Gym-Pool
+  
+10.219.0.11
+AIR-CAP3502I-A-K9
+1c:df:0f:94:b3:d4
+131 d, 22 h 53 m 17 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+0
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+Inglewood.AP28_G-2
+  
+10.219.0.16
+AIR-CAP3502I-A-K9
+1c:df:0f:94:b5:dd
+131 d, 22 h 36 m 57 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+1
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+Inglewood.AP58_Gym-GirlsBasketba
+  
+10.219.0.14
+AIR-CAP3502I-A-K9
+1c:df:0f:94:b2:9b
+131 d, 23 h 00 m 10 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+0
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+Inglewood.AP09_A-6
+  
+10.219.0.27
+AIR-CAP3502I-A-K9
+c4:71:fe:6d:be:3c
+108 d, 08 h 40 m 49 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+2
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+Inglewood.AP06_A-MainOffice
+  
+10.219.0.15
+AIR-CAP3502I-A-K9
+c4:71:fe:6d:be:2b
+108 d, 08 h 52 m 22 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+1
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+Inglewood.AP15_B-1
+  
+10.219.0.23
+AIR-CAP3502I-A-K9
+1c:df:0f:94:98:ad
+108 d, 04 h 24 m 29 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+0
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+Inglewood.AP30_H-1
+  
+10.219.0.30
+AIR-CAP3502I-A-K9
+c4:71:fe:8f:d2:8d
+131 d, 23 h 11 m 55 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+1
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+Inglewood.AP05_A-Records
+  
+10.219.0.17
+AIR-CAP3502I-A-K9
+c4:71:fe:6d:a4:d2
+108 d, 08 h 41 m 51 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+0
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+Inglewood.AP59_Gym-GirlsCoach
+  
+10.219.0.31
+AIR-CAP3502I-A-K9
+1c:df:0f:94:b3:f9
+131 d, 23 h 36 m 03 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+0
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+Inglewood.AP25_Library
+  
+10.219.0.29
+AIR-CAP3502I-A-K9
+c4:71:fe:6d:bc:39
+131 d, 23 h 05 m 29 s
+Enabled
+REG
+PoE/Full Power
+100 Mbps
+NA
+NA
+NA
+NA
+0
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+Inglewood.AP39_I-3
+  
+10.219.0.6
+AIR-CAP3502I-A-K9
+c4:71:fe:6d:a5:98
+131 d, 23 h 26 m 04 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+0
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+Inglewood.AP43_J-5
+  
+10.219.0.9
+AIR-CAP3502I-A-K9
+c4:71:fe:6d:bd:bb
+131 d, 22 h 23 m 30 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+0
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+Inglewood.AP44_K-1
+  
+10.219.0.55
+AIR-CAP3502I-A-K9
+1c:df:0f:94:98:97
+131 d, 22 h 03 m 35 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+0
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+Inglewood.AP02_A-1X
+  
+10.219.0.39
+AIR-CAP3502I-A-K9
+c4:71:fe:8f:d8:93
+108 d, 09 h 17 m 40 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+0
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+Inglewood.AP31_H-2
+  
+10.219.0.43
+AIR-CAP3502I-A-K9
+1c:df:0f:94:b5:d5
+131 d, 22 h 48 m 27 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+1
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+Inglewood.AP40_I-6
+  
+10.219.0.33
+AIR-CAP3502I-A-K9
+1c:df:0f:94:b5:f0
+131 d, 23 h 19 m 59 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+0
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+Inglewood.AP57_Gym-BoysBasketbal
+  
+10.219.0.62
+AIR-CAP3502I-A-K9
+c4:71:fe:6d:a7:67
+131 d, 23 h 20 m 29 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+0
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+AP1cdf.0f94.98a3
+  
+10.219.0.25
+AIR-CAP3502I-A-K9
+1c:df:0f:94:98:a3
+131 d, 22 h 45 m 08 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+1
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+Inglewood.AP21_D-2
+  
+10.219.0.50
+AIR-CAP3502I-A-K9
+c4:71:fe:6d:a5:a2
+108 d, 03 h 58 m 14 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+0
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+Inglewood.AP34_FA-2
+  
+10.219.0.51
+AIR-CAP3502I-A-K9
+c4:71:fe:6d:a5:80
+131 d, 22 h 23 m 15 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+0
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+APc471.fe6d.a5a6
+  
+10.219.0.35
+AIR-CAP3502I-A-K9
+c4:71:fe:6d:a5:a6
+108 d, 08 h 01 m 34 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+0
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+Inglewood.AP16_B-3
+  
+10.219.0.70
+AIR-CAP3502I-A-K9
+c4:71:fe:6d:ba:3d
+108 d, 03 h 34 m 25 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+0
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+Inglewood.AP24_E-2
+  
+10.219.0.38
+AIR-CAP3502I-A-K9
+c4:71:fe:6d:bb:46
+108 d, 03 h 41 m 07 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+0
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+Inglewood.AP23_E-1
+  
+10.219.0.58
+AIR-CAP3502I-A-K9
+1c:df:0f:94:b2:24
+108 d, 03 h 02 m 02 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+0
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+Inglewood.AP45_K-3
+  
+10.219.0.60
+AIR-CAP3502I-A-K9
+c4:71:fe:6d:a5:91
+131 d, 22 h 46 m 25 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+0
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+Inglewood.AP17_B-5
+  
+10.219.0.66
+AIR-CAP3502I-A-K9
+c4:71:fe:6d:ba:5b
+108 d, 05 h 34 m 17 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+0
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+Inglewood.AP26_F-1
+  
+10.219.0.57
+AIR-CAP3502I-A-K9
+c4:71:fe:8f:d3:12
+131 d, 22 h 58 m 56 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+1
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+Inglewood.AP35_FA-3
+  
+10.219.0.54
+AIR-CAP3502I-A-K9
+c4:71:fe:6d:bd:11
+131 d, 22 h 43 m 08 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+1
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+Inglewood.AP33_ConsoladatedOffic
+  
+10.219.0.114
+AIR-CAP3502I-A-K9
+1c:df:0f:94:b2:38
+131 d, 22 h 21 m 28 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+0
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+Inglewood.AP56_Gym-BoysStorage
+  
+10.219.0.49
+AIR-CAP3502I-A-K9
+c4:71:fe:6d:bc:9c
+131 d, 21 h 54 m 06 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+0
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+Inglewood.AP54_N-6
+  
+10.219.0.21
+AIR-CAP3502I-A-K9
+c4:71:fe:8f:d3:1b
+131 d, 23 h 20 m 38 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+0
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+Inglewood.AP20_C-5
+  
+10.219.0.13
+AIR-CAP3502I-A-K9
+1c:df:0f:94:b2:0e
+131 d, 22 h 22 m 28 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+0
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+Inglewood.AP01_A-0
+  
+10.219.0.63
+AIR-CAP3502I-A-K9
+c4:71:fe:6d:b9:76
+108 d, 07 h 40 m 01 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+0
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+Inglewood.AP38_I-2
+  
+10.219.0.158
+AIR-CAP3502I-A-K9
+1c:df:0f:94:98:b1
+131 d, 22 h 48 m 30 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+0
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+Inglewood.AP27_F-5
+  
+10.219.2.8
+AIR-CAP3502I-A-K9
+c4:71:fe:8f:d3:11
+131 d, 23 h 15 m 20 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+1
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+Inglewood.AP29_G-4
+  
+10.219.0.67
+AIR-CAP3502I-A-K9
+c4:71:fe:6d:a5:b6
+21 d, 04 h 54 m 55 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+0
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+AP1cdf.0f94.b1dd
+  
+10.219.0.59
+AIR-CAP3502I-A-K9
+1c:df:0f:94:b1:dd
+13 d, 02 h 33 m 16 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+0
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+Inglewood.AP53_M-203
+  
+10.219.0.53
+AIR-CAP3502I-A-K9
+c4:71:fe:8f:d3:15
+13 d, 02 h 33 m 13 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+0
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+Inglewood.AP46_M-JROTC
+  
+10.219.0.37
+AIR-CAP3502I-A-K9
+1c:df:0f:94:98:b7
+13 d, 02 h 33 m 11 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+1
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+Inglewood.AP51_M-201
+  
+10.219.0.34
+AIR-CAP3502I-A-K9
+1c:df:0f:94:98:2a
+13 d, 02 h 33 m 09 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+0
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+Inglewood.AP47_M-WeightRoom
+  
+10.219.0.18
+AIR-CAP3502I-A-K9
+1c:df:0f:94:b3:fa
+13 d, 02 h 32 m 26 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+0
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+Inglewood.AP52_M-202
+  
+10.219.0.41
+AIR-CAP3502I-A-K9
+c4:71:fe:8f:e8:ec
+13 d, 02 h 32 m 19 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+0
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+Inglewood.AP49_M-Coach
+  
+10.219.0.52
+AIR-CAP3502I-A-K9
+c4:71:fe:6d:ba:2c
+13 d, 02 h 32 m 12 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+0
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 

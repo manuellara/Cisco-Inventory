@@ -1,0 +1,647 @@
+AP06/Worthington.6_Consol
+  
+10.214.0.24
+AIR-CAP3502I-A-K9
+58:8d:09:97:17:9f
+123 d, 08 h 02 m 47 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+1
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+
+AP19/Worthington.19_23
+  
+10.214.0.28
+AIR-CAP3502I-A-K9
+00:07:7d:f8:7e:5e
+435 d, 00 h 05 m 58 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+0
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+AP27/Worthington.27_19
+  
+10.214.0.4
+AIR-CAP3502I-A-K9
+00:3a:99:eb:48:c4
+434 d, 15 h 20 m 13 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+0
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+AP18/Worthington.18_21
+  
+10.214.0.9
+AIR-CAP3502I-A-K9
+00:07:7d:f8:7e:4c
+434 d, 16 h 49 m 13 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+1
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+AP09/Worthington.9_11
+  
+10.214.0.5
+AIR-CAP3502I-A-K9
+e8:b7:48:de:16:ab
+123 d, 06 h 56 m 39 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+2
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+AP29/Worthington.29_15
+  
+10.214.0.3
+AIR-CAP3502I-A-K9
+00:07:7d:f8:7e:1e
+434 d, 19 h 24 m 41 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+2
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+AP16/Worthington.16_Res.Cntr
+  
+10.214.0.6
+AIR-CAP3502I-A-K9
+00:07:7d:f8:7e:3d
+225 d, 09 h 37 m 03 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+0
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+AP08/Worthington.8_10
+  
+10.214.0.12
+AIR-CAP3502I-A-K9
+e8:b7:48:f5:17:8c
+123 d, 08 h 09 m 18 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+0
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+AP01/Worthington.1_Main-Office
+  
+10.214.0.2
+AIR-CAP3502I-A-K9
+58:8d:09:97:17:a1
+123 d, 08 h 10 m 59 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+0
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+AP02/Worthington.2_1
+  
+10.214.0.14
+AIR-CAP3502I-A-K9
+58:8d:09:e2:47:f4
+123 d, 08 h 56 m 15 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+1
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+AP05/Worthington.5_4
+  
+10.214.0.8
+AIR-CAP3502I-A-K9
+58:8d:09:97:18:3a
+123 d, 08 h 43 m 56 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+1
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+AP17/Worthington.17_20
+  
+10.214.0.11
+AIR-CAP3502I-A-K9
+00:07:7d:f8:7d:c6
+434 d, 16 h 21 m 20 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+0
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+AP28/Worthington.28_13
+  
+10.214.0.10
+AIR-CAP3502I-A-K9
+00:07:7d:f8:7e:08
+434 d, 18 h 53 m 18 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+1
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+AP14/Worthington.14_Stage
+  
+10.214.0.13
+AIR-CAP3502I-A-K9
+30:e4:db:40:c8:cd
+225 d, 09 h 55 m 47 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+0
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+AP04/Worthington.4_3
+  
+10.214.0.21
+AIR-CAP3502I-A-K9
+58:8d:09:95:58:e9
+123 d, 08 h 53 m 32 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+0
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+AP25/Worthington.25_34
+  
+10.214.0.17
+AIR-CAP3502I-A-K9
+30:e4:db:05:9c:96
+434 d, 14 h 04 m 24 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+1
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+AP13/Worthington.13_7
+  
+10.214.0.22
+AIR-CAP3502I-A-K9
+00:07:7d:f8:88:a3
+123 d, 08 h 22 m 10 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+1
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+AP23/Worthington.23_31
+  
+10.214.0.30
+AIR-CAP3502I-A-K9
+30:e4:db:05:9a:52
+126 d, 10 h 51 m 09 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+1
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+AP10/Worthington.10_8
+  
+10.214.0.29
+AIR-CAP3502I-A-K9
+e8:b7:48:de:1b:8f
+123 d, 08 h 50 m 33 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+0
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+AP15/Worthington.15_Library
+  
+10.214.0.26
+AIR-CAP3502I-A-K9
+30:e4:db:05:9c:7e
+225 d, 12 h 53 m 06 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+0
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+AP26/Worthington.26_17
+  
+10.214.0.27
+AIR-CAP3502I-A-K9
+00:07:7d:f8:7d:ef
+434 d, 17 h 34 m 52 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+0
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+AP12/Worthington.12_5
+  
+10.214.0.25
+AIR-CAP3502I-A-K9
+00:07:7d:f5:70:86
+123 d, 06 h 41 m 14 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+2
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+AP11/Worthington.11_6
+  
+10.214.0.31
+AIR-CAP3502I-A-K9
+44:d3:ca:af:2d:7d
+123 d, 08 h 01 m 06 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+1
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+AP30/Worthington.30_Kitchen
+  
+10.214.0.7
+AIR-CAP3502I-A-K9
+70:81:05:c0:49:51
+225 d, 10 h 11 m 09 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+0
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA

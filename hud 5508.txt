@@ -1,0 +1,486 @@
+AP03/Hudnall.3_KG1
+  
+10.206.0.3
+AIR-CAP3502I-A-K9
+e8:b7:48:ac:36:75
+35 d, 09 h 05 m 00 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+1
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+AP16/Hudnall.16_12
+  
+10.206.0.4
+AIR-CAP3502I-A-K9
+e8:b7:48:de:01:2f
+71 d, 03 h 13 m 54 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+4
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+AP10/Hudnall.10_18
+  
+10.206.0.7
+AIR-CAP3502I-A-K9
+e8:b7:48:de:1b:37
+90 d, 18 h 03 m 32 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+1
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+AP06/Hudnall.6_10
+  
+10.206.0.5
+AIR-CAP3502I-A-K9
+e8:b7:48:de:1b:4e
+90 d, 17 h 03 m 43 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+2
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+AP04/Hudnall.4_KG2
+  
+10.206.0.6
+AIR-CAP3502I-A-K9
+e8:b7:48:f5:06:0d
+90 d, 16 h 50 m 05 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+0
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+AP15/Hudnall.15_14
+  
+10.206.0.11
+AIR-CAP3502I-A-K9
+e8:b7:48:de:1b:2b
+71 d, 04 h 30 m 27 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+2
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+AP01/Hudnall.1_Main_Office
+  
+10.206.0.14
+AIR-CAP3502I-A-K9
+e8:b7:48:de:0c:15
+90 d, 21 h 10 m 00 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+2
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+AP11/Hudnall.11_16
+  
+10.206.0.8
+AIR-CAP3502I-A-K9
+e8:b7:48:de:1b:3a
+90 d, 21 h 10 m 34 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+3
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+AP08/Hudnall.8_6
+  
+10.206.0.16
+AIR-CAP3502I-A-K9
+e8:b7:48:de:1b:82
+90 d, 21 h 08 m 52 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+3
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+AP12/Hudnall.12_5
+  
+10.206.0.17
+AIR-CAP3502I-A-K9
+e8:b7:48:de:19:a9
+71 d, 04 h 29 m 40 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+3
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+AP18/Hudnall.18_Library
+  
+10.206.0.12
+AIR-CAP3502I-A-K9
+e8:b7:48:de:01:60
+90 d, 21 h 11 m 37 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+17
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+AP07/Hudnall.7_8
+  
+10.206.0.20
+AIR-CAP3502I-A-K9
+e8:b7:48:de:1b:1d
+90 d, 16 h 29 m 09 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+1
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+AP17/Hudnall.17_MPR
+  
+10.206.0.23
+AIR-CAP3502I-A-K9
+e8:b7:48:d6:c0:1d
+90 d, 21 h 11 m 57 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+2
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+AP05/Hudnall.5_Consolidated_Offc
+  
+10.206.0.22
+AIR-CAP3502I-A-K9
+e8:b7:48:ac:37:82
+90 d, 21 h 07 m 05 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+1
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+AP02/Hudnall.2_Work_Room
+  
+10.206.0.15
+AIR-CAP3502I-A-K9
+e8:b7:48:d6:c8:8d
+90 d, 14 h 51 m 51 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+2
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+AP09/Hudnall.9_20
+  
+10.206.0.25
+AIR-CAP3502I-A-K9
+e8:b7:48:d6:de:0a
+90 d, 21 h 06 m 43 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+2
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+AP14/Hudnall.14_1
+  
+10.206.0.24
+AIR-CAP3502I-A-K9
+e8:b7:48:d6:df:97
+71 d, 01 h 36 m 35 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+1
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+AP13/Hudnall.13_3
+  
+10.206.0.40
+AIR-CAP3502I-A-K9
+e8:b7:48:d6:df:c6
+71 d, 02 h 04 m 26 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+2
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 

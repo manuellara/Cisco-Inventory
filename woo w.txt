@@ -1,0 +1,648 @@
+AP06/Woodworth.6_28
+  
+10.213.0.7
+AIR-CAP3502I-A-K9
+e8:b7:48:d6:c0:9d
+152 d, 02 h 14 m 43 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+0
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+AP02/Woodworth.2_HealthOffice
+  
+10.213.0.14
+AIR-CAP3502I-A-K9
+e8:b7:48:de:1b:2f
+152 d, 02 h 41 m 25 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+1
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+AP04/Woodworth.4_24
+  
+10.213.0.18
+AIR-CAP3502I-A-K9
+e8:b7:48:d6:c0:b1
+152 d, 02 h 41 m 32 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+0
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+AP09/Woodworth.9_20
+  
+10.213.0.8
+AIR-CAP3502I-A-K9
+e8:b7:48:d6:cc:bb
+152 d, 02 h 22 m 53 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+0
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+AP11/Woodworth.11_29
+  
+10.213.0.21
+AIR-CAP3502I-A-K9
+e8:b7:48:de:0c:8c
+152 d, 02 h 06 m 58 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+1
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+AP18/Woodworth.18_12
+  
+10.213.0.3
+AIR-CAP3502I-A-K9
+e8:b7:48:de:1a:a4
+152 d, 02 h 11 m 50 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+0
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+AP17/Woodworth.17_14A
+  
+10.213.0.12
+AIR-CAP3502I-A-K9
+e8:b7:48:d6:df:8b
+152 d, 02 h 29 m 07 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+3
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+AP20/Woodworth.20_8
+  
+10.213.0.24
+AIR-CAP3502I-A-K9
+e8:b7:48:de:1b:3b
+152 d, 01 h 14 m 22 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+0
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+AP07/Woodworth.7_17
+  
+10.213.0.35
+AIR-CAP3502I-A-K9
+e8:b7:48:de:01:af
+152 d, 03 h 16 m 04 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+1
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+AP01/Woodworth.1_MainOffice
+  
+10.213.0.36
+AIR-CAP3502I-A-K9
+e8:b7:48:f5:16:f0
+152 d, 02 h 07 m 08 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+0
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+AP12/Woodworth.12_30
+  
+10.213.0.22
+AIR-CAP3502I-A-K9
+e8:b7:48:ac:37:a7
+152 d, 04 h 02 m 36 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+0
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+AP05/Woodworth.5_26
+  
+10.213.0.30
+AIR-CAP3502I-A-K9
+e8:b7:48:de:01:65
+152 d, 02 h 02 m 08 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+1
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+AP13/Woodworth.13_33
+  
+10.213.0.27
+AIR-CAP3502I-A-K9
+e8:b7:48:f5:18:a9
+152 d, 02 h 46 m 15 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+0
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+AP10/Woodworth.10_22
+  
+10.213.0.29
+AIR-CAP3502I-A-K9
+e8:b7:48:ac:37:0b
+152 d, 01 h 58 m 37 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+0
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+AP08/Woodworth.8_18
+  
+10.213.0.32
+AIR-CAP3502I-A-K9
+e8:b7:48:ac:37:75
+152 d, 02 h 47 m 29 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+1
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+AP03/Woodworth.3_Library
+  
+10.213.0.141
+AIR-CAP3502I-A-K9
+e8:b7:48:d6:c0:b7
+152 d, 02 h 48 m 19 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+1
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+AP25/Woodworth.25_5B
+  
+10.213.0.17
+AIR-CAP3502I-A-K9
+e8:b7:48:d6:df:d4
+21 d, 07 h 07 m 40 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+0
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+AP21/Woodworth.21_4
+  
+10.213.0.19
+AIR-CAP3502I-A-K9
+e8:b7:48:d6:df:cd
+21 d, 07 h 06 m 48 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+4
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+AP24/Woodworth.24_1
+  
+10.213.0.4
+AIR-CAP3502I-A-K9
+e8:b7:48:de:1c:2a
+21 d, 07 h 06 m 47 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+0
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+AP22/Woodworth.22_3
+  
+10.213.0.34
+AIR-CAP3502I-A-K9
+e8:b7:48:de:1b:45
+21 d, 07 h 06 m 46 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+4
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+AP23/Woodworth.23_TL
+  
+10.213.0.28
+AIR-CAP3502I-A-K9
+e8:b7:48:d6:df:a8
+21 d, 07 h 06 m 44 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+0
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+APe8b7.48de.1b8e
+  
+10.213.0.15
+AIR-CAP3502I-A-K9
+e8:b7:48:de:1b:8e
+21 d, 07 h 06 m 41 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+0
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+AP27/Woodworth.27_MPR
+  
+10.213.0.10
+AIR-CAP3502I-A-K9
+e8:b7:48:d6:de:17
+21 d, 07 h 06 m 39 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+0
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+AP19/Woodworth.19_10
+  
+10.213.0.26
+AIR-CAP3502I-A-K9
+e8:b7:48:de:1c:2d
+21 d, 07 h 05 m 57 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+0
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 

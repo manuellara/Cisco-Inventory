@@ -1,0 +1,1161 @@
+AP649e.f389.3b3a
+  
+10.209.0.126
+AIR-CAP3502I-A-K9
+64:9e:f3:89:3b:3a
+49 d, 03 h 44 m 06 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+1
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+AP20_D102
+  
+10.209.0.101
+AIR-CAP3502I-A-K9
+70:81:05:b0:f1:73
+49 d, 03 h 24 m 41 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+2
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+AP30_A_StaffRoom
+  
+10.209.0.111
+AIR-CAP3502I-A-K9
+64:9e:f3:8e:f9:77
+77 d, 10 h 22 m 34 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+9
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+AP06_C104
+  
+10.209.0.124
+AIR-CAP3502I-A-K9
+64:9e:f3:8e:f3:35
+49 d, 03 h 34 m 06 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+0
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+AP40_C204
+  
+10.209.0.128
+AIR-CAP3502I-A-K9
+28:94:0f:26:0a:db
+49 d, 03 h 46 m 54 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+0
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+AP41_C205
+  
+10.209.0.108
+AIR-CAP3502I-A-K9
+64:9e:f3:8e:f2:77
+49 d, 03 h 42 m 35 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+8
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+AP24_E101
+  
+10.209.0.109
+AIR-CAP3502I-A-K9
+64:9e:f3:90:64:0a
+49 d, 03 h 31 m 37 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+0
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+AP28_Admin_Lobby
+  
+10.209.0.106
+AIR-CAP3502I-A-K9
+64:9e:f3:8e:f8:ad
+77 d, 10 h 15 m 29 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+3
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+AP25_E102
+  
+10.209.0.127
+AIR-CAP3502I-A-K9
+64:9e:f3:4d:f4:df
+49 d, 03 h 47 m 57 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+0
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+AP08_C-StaffRoom
+  
+10.209.0.121
+AIR-CAP3502I-A-K9
+64:9e:f3:90:64:0b
+49 d, 03 h 43 m 16 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+1
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+AP04_C102
+  
+10.209.0.122
+AIR-CAP3502I-A-K9
+64:9e:f3:2f:9d:47
+49 d, 03 h 40 m 34 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+0
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+AP7081.05c0.3f20
+  
+10.209.0.117
+AIR-CAP3502I-A-K9
+70:81:05:c0:3f:20
+49 d, 03 h 41 m 40 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+0
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+AP19_D101
+  
+10.209.0.119
+AIR-CAP3502I-A-K9
+64:9e:f3:8e:f0:0d
+49 d, 04 h 23 m 20 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+0
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+AP01_K1
+  
+10.209.0.123
+AIR-CAP3502I-A-K9
+64:9e:f3:0e:b3:9b
+49 d, 03 h 45 m 31 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+1
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+AP31_Library
+  
+10.209.0.120
+AIR-CAP3502I-A-K9
+64:9e:f3:90:6b:ce
+49 d, 03 h 29 m 49 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+0
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+AP22_D104
+  
+10.209.0.114
+AIR-CAP3502I-A-K9
+64:9e:f3:0e:b5:54
+49 d, 03 h 22 m 57 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+0
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+AP649e.f30e.b2d1
+  
+10.209.0.115
+AIR-CAP3502I-A-K9
+64:9e:f3:0e:b2:d1
+49 d, 03 h 40 m 25 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+0
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+AP32_LIB_Conf3
+  
+10.209.0.134
+AIR-CAP3502I-A-K9
+28:94:0f:26:09:a6
+49 d, 03 h 31 m 42 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+1
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+AP13_C110
+  
+10.209.0.131
+AIR-CAP3502I-A-K9
+64:9e:f3:2f:9d:3f
+49 d, 03 h 38 m 52 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+0
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+AP26_E103
+  
+10.209.0.137
+AIR-CAP3502I-A-K9
+64:9e:f3:8e:f3:68
+49 d, 03 h 36 m 24 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+0
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+AP7081.059f.0e81
+  
+10.209.0.143
+AIR-CAP3502I-A-K9
+70:81:05:9f:0e:81
+48 d, 07 h 40 m 07 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+11
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+AP16_C208
+  
+10.209.0.133
+AIR-CAP3502I-A-K9
+64:9e:f3:2f:9d:4a
+49 d, 03 h 37 m 36 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+0
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+AP17_C207
+  
+10.209.0.138
+AIR-CAP3502I-A-K9
+64:9e:f3:0e:b4:cc
+49 d, 03 h 42 m 18 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+0
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+AP14_C210
+  
+10.209.0.141
+AIR-CAP3502I-A-K9
+64:9e:f3:8e:f0:ca
+49 d, 03 h 22 m 22 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+0
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+AP42_C206
+  
+10.209.0.129
+AIR-CAP3502I-A-K9
+64:9e:f3:8e:f3:6a
+49 d, 03 h 42 m 34 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+0
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+AP11_C108
+  
+10.209.0.144
+AIR-CAP3502I-A-K9
+64:9e:f3:8e:f2:c6
+49 d, 03 h 29 m 32 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+0
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+AP05_C103
+  
+10.209.0.140
+AIR-CAP3502I-A-K9
+64:9e:f3:2f:9d:c4
+49 d, 03 h 52 m 08 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+0
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+AP27_E104
+  
+10.209.0.135
+AIR-CAP3502I-A-K9
+64:9e:f3:8e:f9:1f
+49 d, 03 h 46 m 42 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+0
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+AP23_D105
+  
+10.209.0.142
+AIR-CAP3502I-A-K9
+64:9e:f3:0e:b5:2d
+49 d, 03 h 37 m 42 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+0
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+AP18_C206
+  
+10.209.0.116
+AIR-CAP3502I-A-K9
+64:9e:f3:0e:b4:29
+49 d, 03 h 44 m 30 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+0
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+AP39_C203
+  
+10.209.0.125
+AIR-CAP3502I-A-K9
+28:94:0f:26:09:7b
+49 d, 03 h 43 m 09 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+1
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+AP29_A113
+  
+10.209.0.159
+AIR-CAP3502I-A-K9
+64:9e:f3:0e:b4:7e
+77 d, 10 h 11 m 51 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+0
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+AP02_K2
+  
+10.209.0.118
+AIR-CAP3502I-A-K9
+70:81:05:c9:80:ee
+49 d, 04 h 13 m 44 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+1
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+AP37_C201
+  
+10.209.0.164
+AIR-CAP3502I-A-K9
+28:94:0f:05:bf:62
+49 d, 03 h 48 m 26 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+6
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+AP09_C106
+  
+10.209.0.166
+AIR-CAP3502I-A-K9
+70:81:05:c9:7f:a8
+49 d, 03 h 51 m 40 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+0
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+AP07_C105
+  
+10.209.0.170
+AIR-CAP3502I-A-K9
+70:81:05:96:75:06
+49 d, 03 h 31 m 29 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+1
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+AP36_B203
+  
+10.209.0.132
+AIR-CAP3502I-A-K9
+64:9e:f3:90:60:ad
+48 d, 07 h 43 m 46 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+0
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+AP34_B201
+  
+10.209.0.179
+AIR-CAP3502I-A-K9
+28:94:0f:01:20:92
+48 d, 07 h 26 m 33 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+0
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+AP33_ComputerLab
+  
+10.209.0.181
+AIR-CAP3502I-A-K9
+28:94:0f:05:b7:4e
+49 d, 03 h 34 m 03 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+11
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+AP12_C109
+  
+10.209.0.107
+AIR-CAP3502I-A-K9
+64:9e:f3:0e:b5:50
+49 d, 03 h 48 m 00 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+0
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+AP21_D103
+  
+10.209.0.136
+AIR-CAP3502I-A-K9
+70:81:05:ec:1c:54
+49 d, 03 h 33 m 52 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+0
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+AP15_C209
+  
+10.209.0.130
+AIR-CAP3502I-A-K9
+64:9e:f3:2f:9d:3b
+49 d, 04 h 05 m 33 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+0
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+AP44_CAFE
+  
+10.209.248.64
+AIR-CAP3502I-A-K9
+30:e4:db:05:87:3c
+48 d, 09 h 51 m 26 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+0
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 

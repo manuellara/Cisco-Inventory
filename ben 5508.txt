@@ -1,0 +1,621 @@
+AP12/Bennett.12_1
+  
+10.202.0.21
+AIR-CAP3502I-A-K9
+e8:b7:48:d6:df:af
+115 d, 06 h 10 m 22 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+1
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+AP09/Bennett.9_A1
+  
+10.202.0.25
+AIR-CAP3502I-A-K9
+e8:b7:48:2c:67:75
+115 d, 03 h 41 m 01 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+2
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+AP21/Bennett.21_Staff-Lounge
+  
+10.202.0.3
+AIR-CAP3502I-A-K9
+e8:b7:48:ac:37:7b
+66 d, 03 h 16 m 30 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+1
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+AP03/Bennett.3_13
+  
+10.202.0.13
+AIR-CAP3502I-A-K9
+e8:b7:48:f5:06:55
+115 d, 07 h 00 m 03 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+3
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+AP02/Bennett.2_VP
+  
+10.202.0.10
+AIR-CAP3502I-A-K9
+e8:b7:48:d6:cb:65
+49 d, 08 h 41 m 09 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+0
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+AP10/Bennett.10_37
+  
+10.202.0.18
+AIR-CAP3502I-A-K9
+e8:b7:48:2c:51:ae
+115 d, 03 h 19 m 20 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+1
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+AP24/Bennett.24_19
+  
+10.202.0.19
+AIR-CAP3502I-A-K9
+e8:b7:48:de:0c:62
+66 d, 02 h 58 m 03 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+0
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+AP07/Bennett.7_2
+  
+10.202.0.5
+AIR-CAP3502I-A-K9
+1c:df:0f:94:95:ee
+115 d, 04 h 56 m 11 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+2
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+AP08/Bennett.8_1
+  
+10.202.0.4
+AIR-CAP3502I-A-K9
+e8:b7:48:d6:cb:c2
+115 d, 04 h 15 m 54 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+2
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+AP11/Bennett.11_38
+  
+10.202.0.11
+AIR-CAP3502I-A-K9
+e8:b7:48:de:1c:1f
+115 d, 03 h 28 m 46 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+1
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+AP22/Bennett.22_15
+  
+10.202.0.12
+AIR-CAP3502I-A-K9
+e8:b7:48:de:09:e1
+66 d, 03 h 26 m 03 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+2
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+AP01/Bennett.1_Main_Office
+  
+10.202.0.8
+AIR-CAP3502I-A-K9
+e8:b7:48:ac:37:eb
+49 d, 08 h 08 m 05 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+0
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+AP19/Bennett.19_12
+  
+10.202.0.7
+AIR-CAP3502I-A-K9
+e8:b7:48:de:0a:04
+115 d, 04 h 12 m 47 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+2
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+AP20/Bennett.20_MPR
+  
+10.202.0.9
+AIR-CAP3502I-A-K9
+e8:b7:48:de:0c:3b
+66 d, 03 h 02 m 48 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+2
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+AP05/Bennett.5_Library
+  
+10.202.0.17
+AIR-CAP3502I-A-K9
+e8:b7:48:de:0c:de
+115 d, 04 h 15 m 37 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+2
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+AP23/Bennett.23_17
+  
+10.202.0.27
+AIR-CAP3502I-A-K9
+e8:b7:48:ac:37:ff
+66 d, 03 h 37 m 34 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+2
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+APe8b7.48de.1b5a
+  
+10.202.0.26
+AIR-CAP3502I-A-K9
+e8:b7:48:de:1b:5a
+115 d, 03 h 51 m 51 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+2
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+AP16/Bennett.16_7
+  
+10.202.0.20
+AIR-CAP3502I-A-K9
+e8:b7:48:de:1b:60
+115 d, 04 h 32 m 25 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+2
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+AP17/Bennett.17_9
+  
+10.202.0.22
+AIR-CAP3502I-A-K9
+e8:b7:48:ac:37:c0
+115 d, 04 h 54 m 55 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+4
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+AP18/Bennett.18_10
+  
+10.202.0.16
+AIR-CAP3502I-A-K9
+e8:b7:48:f5:17:b6
+92 d, 11 h 15 m 16 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+8
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+AP14/Bennett.14_6
+  
+10.202.0.24
+AIR-CAP3502I-A-K9
+40:55:39:bb:c9:f4
+115 d, 05 h 04 m 46 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+9
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+AP15/Bennett.15_8
+  
+10.202.0.52
+AIR-CAP3502I-A-K9
+e8:b7:48:2c:66:e3
+115 d, 03 h 44 m 42 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+1
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+AP13/Bennett.13_5
+  
+10.202.0.160
+AIR-CAP3502I-A-K9
+e8:b7:48:01:96:08
+115 d, 04 h 40 m 52 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+1
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 

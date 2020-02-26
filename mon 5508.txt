@@ -1,0 +1,513 @@
+AP31/Monroe.31_G3
+  
+10.217.33.47
+AIR-CAP3502I-A-K9
+e8:b7:48:d6:cc:2b
+152 d, 06 h 36 m 34 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+0
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+AP12/Monroe.12_TeachersWrkRm
+  
+10.217.33.50
+AIR-CAP3502I-A-K9
+e8:b7:48:ac:37:a3
+84 d, 12 h 15 m 11 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+1
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+AP01/Monroe.1_MainOffice
+  
+10.217.33.51
+AIR-CAP3502I-A-K9
+e8:b7:48:de:0c:bc
+50 d, 08 h 21 m 25 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+1
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+AP15/Monroe.15_H3
+  
+10.217.33.52
+AIR-CAP3502I-A-K9
+e8:b7:48:de:0c:39
+50 d, 08 h 15 m 17 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+0
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+AP04/Monroe.4_C3
+  
+10.217.33.53
+AIR-CAP3502I-A-K9
+e8:b7:48:de:1c:3c
+84 d, 12 h 03 m 48 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+0
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+AP29/Monroe.29_G2
+  
+10.217.33.48
+AIR-CAP3502I-A-K9
+e8:b7:48:de:0c:8a
+152 d, 06 h 26 m 14 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+0
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+AP25/Monroe.25_Stage
+  
+10.217.33.54
+AIR-CAP3502I-A-K9
+e8:b7:48:d6:df:8c
+152 d, 05 h 43 m 38 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+1
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+AP05/Monroe.5_C1
+  
+10.217.33.56
+AIR-CAP3502I-A-K9
+e8:b7:48:ac:37:e3
+84 d, 12 h 26 m 26 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+0
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+AP28/Monroe.28_G11A
+  
+10.217.33.57
+AIR-CAP3502I-A-K9
+e8:b7:48:de:07:4c
+147 d, 06 h 01 m 27 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+0
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+AP26/Monroe.26_Gym
+  
+10.217.33.58
+AIR-CAP3502I-A-K9
+e8:b7:48:d6:c9:97
+152 d, 06 h 46 m 11 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+0
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+AP03/Monroe.3_N1
+  
+10.217.33.59
+AIR-CAP3502I-A-K9
+e8:b7:48:f5:06:18
+84 d, 11 h 59 m 27 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+0
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+AP10/Monroe.10_I4
+  
+10.217.33.61
+AIR-CAP3502I-A-K9
+58:8d:09:95:56:7a
+84 d, 12 h 54 m 56 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+0
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+AP27/Monroe.27_G10A
+  
+10.217.33.62
+AIR-CAP3502I-A-K9
+e8:b7:48:d6:c9:86
+81 d, 08 h 00 m 57 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+0
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+AP14/Monroe.14_H1
+  
+10.217.33.60
+AIR-CAP3502I-A-K9
+e8:b7:48:de:05:39
+32 d, 04 h 35 m 38 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+0
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+AP1005.ca25.7dc5
+  
+10.217.32.62
+AIR-CAP3502I-A-K9
+10:05:ca:25:7d:c5
+29 d, 08 h 06 m 30 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+0
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+AP07/Monroe.7_E1
+  
+10.217.33.49
+AIR-CAP3502I-A-K9
+e8:b7:48:de:1c:28
+6 d, 00 h 24 m 29 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+0
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+AP06/Monroe.6_E3
+  
+10.217.33.46
+AIR-CAP3502I-A-K9
+e8:b7:48:d6:df:9e
+6 d, 00 h 24 m 24 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+0
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+AP42/Monroe.42_MPR
+  
+10.217.33.45
+AIR-CAP3502I-A-K9
+e8:b7:48:de:0a:34
+29 d, 02 h 46 m 01 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+0
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+AP43/Monroe.43_Kitchen
+  
+10.217.33.55
+AIR-CAP3502I-A-K9
+e8:b7:48:d6:df:9d
+29 d, 02 h 28 m 12 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+0
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 

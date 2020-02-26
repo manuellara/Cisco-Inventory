@@ -1,0 +1,675 @@
+Centinela.AP6_8
+  
+10.203.0.21
+AIR-CAP3502I-A-K9
+1c:df:0f:94:95:7f
+187 d, 19 h 45 m 51 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+2
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+Centinela.AP17_108_1st
+  
+10.203.0.25
+AIR-CAP3502I-A-K9
+1c:df:0f:94:95:30
+187 d, 15 h 24 m 52 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+4
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+Centinela.AP20_205_2nd
+  
+10.203.0.33
+AIR-CAP3502I-A-K9
+c4:71:fe:6d:a3:16
+187 d, 18 h 13 m 31 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+7
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+Centinela.AP9_14
+  
+10.203.0.2
+AIR-CAP3502I-A-K9
+c4:71:fe:6d:a3:03
+39 d, 07 h 15 m 42 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+1
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+Centinela.AP4_MainOffice
+  
+10.203.0.3
+AIR-CAP3502I-A-K9
+c4:71:fe:6d:a3:dc
+187 d, 19 h 27 m 00 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+2
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+Centinela.AP12_15
+  
+10.203.0.8
+AIR-CAP3502I-A-K9
+c4:71:fe:6d:a3:cf
+39 d, 07 h 16 m 19 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+1
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+Centinela.AP25_2A
+  
+10.203.0.12
+AIR-CAP3502I-A-K9
+c4:71:fe:6d:a9:29
+82 d, 06 h 46 m 54 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+2
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+Centinela.AP15_StudentDining
+  
+10.203.0.6
+AIR-CAP3502I-A-K9
+1c:df:0f:94:95:e0
+187 d, 18 h 47 m 38 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+4
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+Centinela.AP22_114
+  
+10.203.0.16
+AIR-CAP3502I-A-K9
+58:8d:09:95:4d:63
+187 d, 17 h 38 m 50 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+2
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+Centinela.AP16_104_1st
+  
+10.203.0.9
+AIR-CAP3502I-A-K9
+c4:71:fe:6d:a3:69
+187 d, 16 h 23 m 40 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+3
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+Centinela.AP11_Library
+  
+10.203.0.20
+AIR-CAP3502I-A-K9
+c4:71:fe:6d:a3:b5
+39 d, 07 h 16 m 09 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+2
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+Centinela.AP10_13
+  
+10.203.0.23
+AIR-CAP3502I-A-K9
+1c:df:0f:94:95:c4
+39 d, 07 h 15 m 00 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+0
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+Centinela.AP23_106_Multipurpose
+  
+10.203.0.24
+AIR-CAP3502I-A-K9
+1c:df:0f:94:8f:54
+187 d, 17 h 30 m 21 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+3
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+Centinela.AP24_4A
+  
+10.203.0.15
+AIR-CAP3502I-A-K9
+c4:71:fe:6d:a9:23
+82 d, 06 h 59 m 01 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+3
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+Centinela.AP2_3
+  
+10.203.0.19
+AIR-CAP3502I-A-K9
+1c:df:0f:94:94:e5
+187 d, 17 h 03 m 45 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+2
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+Centinela.AP8_11
+  
+10.203.0.22
+AIR-CAP3502I-A-K9
+c4:71:fe:6d:a3:cb
+39 d, 07 h 14 m 45 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+1
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+Centinela.AP26_101
+  
+10.203.0.36
+AIR-CAP3502I-A-K9
+c4:71:fe:34:1f:40
+47 d, 05 h 51 m 02 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+2
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+Centinela.AP13_17
+  
+10.203.0.27
+AIR-CAP3502I-A-K9
+c4:71:fe:6d:a3:e9
+39 d, 07 h 16 m 45 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+3
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+Centinela.AP28_115
+  
+10.203.0.30
+AIR-CAP3502I-A-K9
+c4:71:fe:49:f6:60
+47 d, 05 h 56 m 46 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+5
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+Centinela.AP21_113_Media
+  
+10.203.0.31
+AIR-CAP3502I-A-K9
+58:8d:09:95:4d:69
+187 d, 15 h 24 m 40 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+3
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+Centinela.AP3_4
+  
+10.203.0.32
+AIR-CAP3502I-A-K9
+1c:df:0f:94:95:57
+187 d, 17 h 30 m 34 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+4
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+Centinela.AP7_7
+  
+10.203.0.35
+AIR-CAP3502I-A-K9
+1c:df:0f:94:95:98
+187 d, 17 h 22 m 04 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+1
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+Centinela.AP14_18
+  
+10.203.0.37
+AIR-CAP3502I-A-K9
+1c:df:0f:94:92:be
+39 d, 07 h 17 m 19 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+4
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+Centinela.AP19_203_2nd
+  
+10.203.0.111
+AIR-CAP3502I-A-K9
+c4:71:fe:49:f6:14
+187 d, 17 h 23 m 28 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+2
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
+Centinela.AP5_6
+  
+10.203.1.70
+AIR-CAP3502I-A-K9
+c4:71:fe:6d:a3:4b
+187 d, 14 h 12 m 35 s
+Enabled
+REG
+PoE/Full Power
+1000 Mbps
+NA
+NA
+NA
+NA
+0
+1
+Local
+MIC
+No
+8.2.151.0
+0.0.0.0
+None
+None
+Disabled
+No
+NA
+ 
